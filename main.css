@@ -11,4 +11,8 @@ blockquote {
     margin-inline-end: 40px;
 }
 
+code {
+    font-family: monospace;
+}
+
 #1.4 {line-height: 1.4} /*à voir plus tard*/
